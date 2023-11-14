@@ -4,11 +4,12 @@ import callOfDuty from '../assets/call-of-duty.jpg'
 const GameCard = ({game}) =>{
 
     console.log(game.image)
+    // Displaying game card
     return (
         <div className='game-card' style={{
             '--hover-color': game.hoverColor
         }}>
-            <img src={league} alt="game" />
+            <img src={game.image} alt="game" />
             <div>{game.name}</div>
         </div>
     )

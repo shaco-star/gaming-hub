@@ -3,6 +3,7 @@ import '../style/hero.css'
 import heroImg from '../assets/joy_stick.png'
 
 const Hero = ()=>{
+    //Hero section 
     return (
         <section>
             <div className="container">

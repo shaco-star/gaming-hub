@@ -4,6 +4,7 @@ import gameData from '../gameData'
 
 
 const GamesSection = () =>{
+    //Games section that contains game cards
     return (
         <section>
             <div className="container">
