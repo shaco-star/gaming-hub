@@ -3,6 +3,8 @@
 
 The only place to get news about your favorite games
 
+![Alt website](./src/assets/Screenshot%202023-11-06%20115452.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
