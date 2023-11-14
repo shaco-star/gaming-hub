@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+# Gaming Hub
+
+The only place to get news about your favorite games
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
