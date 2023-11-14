@@ -12,15 +12,18 @@ Gaming Hub is a comprehensive platform dedicated to providing the latest news, e
 
 ## Inspiration
 ![Alt inspiration gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRxcHVnbjFmMGszOHBmOTd2ZWE5dW93cHVhbXhxNmN4cnVzdzg4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XNjxWQjaBG8us/giphy.gif)
+
 The inspiration for Gaming Hub came from my own experiences as gamers. I wanted to create a platform that not only provides news and events but also fosters a sense of community among gamers.
 
 ## Technical Challenges
-![Alt techincal challenges gif](https://giphy.com/clips/ThisIsMashed-animation-gaming-cartoon-1hGu7ketlpuuWjwvMA)
+![Alt techincal challenges gif](https://media.giphy.com/media/l2YWFxG9GxXk8A7w4/giphy.gif)
+
 Building Gaming Hub was not without its challenges. Integrating various APIs to fetch game details, implementing a responsive and intuitive UI with React, and ensuring a seamless user experience were some of the hurdles i faced. But with each challenge came learning and growth.
 
 
 ## Future Iterations
 ![Alt future gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ2enJkeG9vNnBqaWV4aDBjc3owdHpnb29venI4cHdoNWVwbXBxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlQQYUIEAZ76o/giphy.gif)
+
 I envision Gaming Hub to evolve into a platform that not only provides game details but also allows gamers to connect, share their gaming experiences, and even organize gaming events.
 
 
